@@ -1,5 +1,7 @@
 # MAPit-Pipeline
 
+This version of the reAminator collection of scripts was written by Russel Darst in 2013, and has been maintained by Alberto Riva and Jason Brant.
+
 reAminator is a collection of command-line scripts to process long-read (200+ bp), high-throughput bisulfite genomic sequencing. reAminator comprises 6 Python scripts:
 
 barcode.py  -- label reads by barcode
